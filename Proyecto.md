@@ -9,7 +9,7 @@ La idea es crear un espacio sencillo donde cualquier profesional pueda **publica
 El objetivo principal de ConectaServicios es facilitar la conexión entre **profesionales y clientes**.
 
 Por ejemplo, un usuario podría anunciar servicios como:
-
+-  Desarrollo
 - 🔧 Fontanería
 - ⚡ Electricidad
 - 🎨 Pintura
